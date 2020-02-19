@@ -1507,7 +1507,7 @@ public enum FontAwesome: String, CaseIterable {
     case registered = "fa-registered"
     case removeFormat = "fa-remove-format"
     case renren = "fa-renren"
-    case repeat = "fa-repeat"
+    case repeatIcon = "fa-repeat"
     case repeat1 = "fa-repeat-1"
     case repeat1Alt = "fa-repeat-1-alt"
     case repeatAlt = "fa-repeat-alt"
@@ -3624,7 +3624,7 @@ public enum FontAwesome: String, CaseIterable {
             case .registered: return "\u{f25d}"
             case .removeFormat: return "\u{f87d}"
             case .renren: return "\u{f18b}"
-            case .repeat: return "\u{f363}"
+            case .repeatIcon: return "\u{f363}"
             case .repeat1: return "\u{f365}"
             case .repeat1Alt: return "\u{f366}"
             case .repeatAlt: return "\u{f364}"
@@ -5730,7 +5730,7 @@ public enum FontAwesome: String, CaseIterable {
             case .registered: return [.solid, .regular, .light, .duotone]
             case .removeFormat: return [.solid, .regular, .light, .duotone]
             case .renren: return [.brands]
-            case .repeat: return [.solid, .regular, .light, .duotone]
+            case .repeatIcon: return [.solid, .regular, .light, .duotone]
             case .repeat1: return [.solid, .regular, .light, .duotone]
             case .repeat1Alt: return [.solid, .regular, .light, .duotone]
             case .repeatAlt: return [.solid, .regular, .light, .duotone]
