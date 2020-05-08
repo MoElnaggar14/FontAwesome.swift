@@ -3712,7 +3712,6 @@ public enum FontAwesome: String, CaseIterable {
             case .shekelSign: return "\u{f20b}"
             case .shield: return "\u{f132}"
             case .shieldAlt: return "\u{f3ed}"
-            case .shieldVirus: return "\u{f96c}"
             case .shieldCheck: return "\u{f2f7}"
             case .shieldCross: return "\u{f712}"
             case .ship: return "\u{f21a}"
